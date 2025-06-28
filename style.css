@@ -1,0 +1,156 @@
+html,
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #fff5f5;
+}
+
+.side-panel {
+    border-radius: 0px 0px 0px 0px;
+    height: 100vh; /* Full viewport height */
+    width: 35%;
+    position: fixed; /* Stick to the screen */
+    top: 0;
+    right: 0;
+    background-color: #fff5f5;
+    box-sizing: border-box;
+    box-shadow: 12px 0 6px rgba(0,0,0,0.1); /* Optional: Adds depth */
+    display: flex;
+    flex-direction: column;
+}
+
+.content-area {
+    border-radius: 5px;
+    margin: 5px;
+    background-color: pink;
+    flex: 1; /* Take up remaining space */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 15px;
+    box-sizing: border-box;
+    /* Ensure minimum height for content */
+    min-height: 0;
+}
+
+.header {
+    -webkit-user-select: none;
+    user-select: none;
+    font-weight: 300;
+    font-size: 26px;
+    padding: 0px 40px 0px 20px;
+    margin: 5px 20px 5px 5px;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Show ellipsis for long text */
+}
+
+.header:hover {
+    border-radius: 5px;
+    background-color: pink;
+    cursor: pointer;
+}
+
+.tab-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-shrink: 0; /* Prevent shrinking */
+    border-bottom: 1px solid #eee; /* Visual separation */
+}
+
+gmp-map-3d {
+    right: 0;
+    width: 65%;
+}
+
+/* Responsive design for tablets */
+@media (max-width: 768px) {
+    .side-panel {
+        width: 50%;
+    }
+    .header {
+        font-size: 24px;
+        padding: 0px 10px;
+    }
+    gmp-map-3d {
+        width: 50%;
+    }
+}
+
+/* Mobile layout - move panel to bottom */
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .side-panel {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: auto;
+        width: 100%;
+        height: 50vh; /* Take up half the screen height */
+        box-shadow: 0 -12px 6px rgba(0,0,0,0.1);
+        z-index: 1000;
+    }
+
+    .tab-container {
+        flex-direction: row;
+        border-bottom: 1px solid #eee;
+    }
+
+    .header {
+        font-size: 20px;
+        padding: 10px 20px;
+        margin: 5px;
+        text-align: center;
+    }
+
+    .content-area {
+        margin: 5px;
+        padding: 10px;
+    }
+
+    gmp-map-3d {
+        width: 100%;
+        height: 50vh; /* Top half of screen */
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+
+    /* Adjust body padding to account for fixed panel */
+    body::after {
+        content: "";
+        height: 50vh;
+        display: block;
+    }
+}
+
+/* Very small screens */
+@media (max-width: 480px) {
+    .side-panel {
+        height: 60vh; /* Give more space to content on very small screens */
+    }
+
+    .header {
+        font-size: 18px;
+        padding: 8px 15px;
+    }
+
+    .content-area {
+        padding: 8px;
+    }
+
+    gmp-map-3d {
+        height: 40vh;
+    }
+
+    body::after {
+        height: 60vh;
+    }
+}
