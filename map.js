@@ -72,7 +72,7 @@ function listEntries(entries){
         `;
         
         // Create text element
-        const textDiv = document.createElement('div');
+        const textDiv = document.createElement('h4');
         textDiv.textContent = entries[i].address;
 
         // Create text element
