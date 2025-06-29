@@ -22,6 +22,9 @@ body {
 }
 
 .content-area {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     border-radius: 5px;
     margin: 5px;
     background-color: pink;
@@ -31,6 +34,16 @@ body {
     box-sizing: border-box;
     /* Ensure minimum height for content */
     min-height: 0;
+}
+.entry-item{
+    font-size: 12;
+    background-color: #fff5f5;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.entry-item:hover{
+    cursor: pointer;
 }
 
 .header {
