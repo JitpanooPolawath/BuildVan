@@ -76,6 +76,10 @@ function listEntries(entries){
         textDiv.textContent = entries[i].address;
 
         // Create text element
+        const dateDiv = document.createElement('div');
+        dateDiv.textContent = "Public comment data: " + entries[i].public_comments_data;
+
+        // Create text element
         const aTag = document.createElement('a');
         aTag.href = entries[i].href;
         aTag.textContent = "Visit page for more detail";
@@ -84,6 +88,7 @@ function listEntries(entries){
         // Append image and text to div
         div.appendChild(img);
         div.appendChild(textDiv);
+        div.appendChild(dateDiv);
         div.appendChild(aTag);
         
         // Add click functionality
