@@ -13,10 +13,11 @@ function aboutClick (){
     console.log("clicking about")
     document.getElementById("container-content").innerHTML=`
     <div>
-    <p>This project displays the boundaries of rezoning and development applications submitted in 2025 to the City of Vancouver. </p>
-    <p>This project aims to hopefully increase public engagement and informing Vancouverite about new development in their city</p>
-    <p></p>
-    </div>`;
+    <p>This project displays the boundaries of rezoning and development applications submitted in 2025 to the City of Vancouver.</p>
+    <p>This project aims to increase public engagement and inform Vancouverites about new development in their city.</p>
+    <p>The collated data for each property are scraped from <a href="https://www.shapeyourcity.ca/hub-page/rezoning-and-development" target="_blank" >shapeyourcity</a> for application data, and the property boundaries are sourced from <a  href="https://opendata.vancouver.ca/explore/dataset/property-parcel-polygons/information/?disjunctive.streetname" target="_blank">opendata.vancouver.ca</a>.
+    To access the data, please visit the <a href="https://github.com/JitpanooPolawath/BuildVan" target="_blank">github page</a>.</p>
+    </div>`
     clickedAbout = true
 }
 document.getElementById("properties").addEventListener("click", function(){
