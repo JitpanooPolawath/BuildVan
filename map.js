@@ -11,7 +11,12 @@ let originalContent;
 
 function aboutClick (){
     console.log("clicking about")
-    document.getElementById("container-content").textContent="About me is about me, so what do you want to know about me?";
+    document.getElementById("container-content").innerHTML=`
+    <div>
+    <p>This project displays the boundaries of rezoning and development applications submitted in 2025 to the City of Vancouver. </p>
+    <p>This project aims to hopefully increase public engagement and informing Vancouverite about new development in their city</p>
+    <p></p>
+    </div>`;
     clickedAbout = true
 }
 document.getElementById("properties").addEventListener("click", function(){
@@ -215,7 +220,7 @@ function removeAllBoundaries() {
 // Read the json file
 async function readJson() {
     try {
-        const response = await fetch('./processed_data.json');
+        const response = await fetch('./data/processed_data.json');
         if (!response.ok) {
             throw new Error(`Reading failed: ${response.status}`);
         }
