@@ -47,8 +47,8 @@ async function init() {
     });
 
     // Polygon options
-    const { Polygon3DElement: Polygon3DClass, AltitudeMode } = await google.maps.importLibrary("maps3d");
-    Polygon3DElement = Polygon3DClass; // Store for later use
+    const { Polygon3DInteractiveElement } = await google.maps.importLibrary("maps3d");
+    Polygon3DElement = Polygon3DInteractiveElement; // Store for later use
 
     // Add the map element to the document's body
     document.body.append(map3DElement);
@@ -77,15 +77,15 @@ function listEntries(entries){
             margin-bottom: 10px;
         `;
         
-        // Create text element
+        // Create address element
         const textDiv = document.createElement('h4');
         textDiv.textContent = entries[i].address;
 
-        // Create text element
+        // Create date element
         const dateDiv = document.createElement('div');
         dateDiv.textContent = "Public comment data: " + entries[i].public_comments_data;
 
-        // Create text element
+        // Create aTag element
         const aTag = document.createElement('a');
         aTag.href = entries[i].href;
         aTag.textContent = "Visit page for more detail";
@@ -167,7 +167,7 @@ function animateToCenter(addr, lat, lng, altitude = 400, duration = 2000, tilt=1
 }
 
 // Function to add a new boundary/polygon dynamically
-function addBoundary(coordinates, options = {}) {
+function addBoundary(coordinates, options = {}, link) {
     if (!map3DElement || !Polygon3DElement) {
         console.warn('Map or Polygon3DElement not initialized yet');
         return null;
@@ -190,7 +190,11 @@ function addBoundary(coordinates, options = {}) {
     const newPolygon = new Polygon3DElement(polygonOptions);
     newPolygon.id = `polygon-${polygonCounter++}`;
     newPolygon.outerCoordinates = coordinates;
-
+    // Try multiple event types
+    newPolygon.addEventListener("gmp-click", (event) => {
+        window.open(link, '_blank');
+        event.stopPropagation(); // Prevent map click
+    }); 
     // Add to map
     map3DElement.append(newPolygon);
 
@@ -264,7 +268,7 @@ function createBoundary(entries){
                 const lat = latOld;
                 newCoord.push({lat, lng, altitude})
             }
-            addBoundary(newCoord, options);
+            addBoundary(newCoord, options, entry.href);
         }
     }
 }
