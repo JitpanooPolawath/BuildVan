@@ -83,7 +83,7 @@ function listEntries(entries){
 
         // Create date element
         const dateDiv = document.createElement('div');
-        dateDiv.textContent = "Public comment data: " + entries[i].public_comments_data;
+        dateDiv.textContent = "Public comment date: " + entries[i].public_comments_data;
 
         // Create aTag element
         const aTag = document.createElement('a');
