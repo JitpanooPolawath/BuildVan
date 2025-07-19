@@ -1,5 +1,309 @@
 [
   {
+    "address": "2005 W 49th Ave (DP-2025-00089) development application",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/2005-w-49-ave",
+    "updated": "July 19, 2025",
+    "description": "Yamamoto Architecture has applied to the City of Vancouver for permission to develop a six-storey apartment building on this site consisting of:\n129 dwelling units (At least 20% of residential floor area secure as below-market rental)\nA proposed Floor Space Ratio of 2.7 (8,004 m2 / 86,736 sq. ft.)\nA proposed height of 19.8 m / 65 ft.\nOne level of underground parking with vehicular access off the lane\nThis rezoning application was approved by City Council, following Public Hearing. Among the conditions of Council’s approval, the applicant must obtain approval of a development permit.",
+    "public_comments_data": "July 18 → August 01 2025",
+    "points": [
+      [
+        -123.1526646206058,
+        49.22721806206995
+      ],
+      [
+        -123.15245516103411,
+        49.22721546020929
+      ],
+      [
+        -123.15244251960168,
+        49.22756630122379
+      ],
+      [
+        -123.15265198118242,
+        49.22756907401509
+      ],
+      [
+        -123.15266462143722,
+        49.227218331926814
+      ],
+      [
+        -123.1526646206058,
+        49.22721806206995
+      ]
+    ],
+    "middle_point": [
+      "49.22739222419143",
+      " -123.15255358175114"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/17e7374a3b5c63231790827340fd28f639047b85/original/1752872408/10af27299daaf39b7a9ee5e8e3a2acf6_Capture.PNG?1752872408",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "2535 Carolina St and 557-569 E 10th Ave (DP-2025-00530) development...",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/2535-carolina-st-and-557-569-e-10th-ave-2",
+    "updated": "July 18, 2025",
+    "description": "Fastmark has applied to the City of Vancouver for permission to develop a 17-storey, mixed-use building consisting on this site, consisting of:\n143 secured market rental, with 20% allocated to below market\nOver two levels of underground vehicle and bicycle parking\nWith a proposed height of 95.45 m (303.5 ft.)\nProposed FSR of 5.8\nUnder the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "July 17 → July 31 2025",
+    "points": [
+      [
+        -123.09162161162833,
+        49.26163630018495
+      ],
+      [
+        -123.09161625179719,
+        49.26197059335821
+      ],
+      [
+        -123.09175446524978,
+        49.261971734014274
+      ],
+      [
+        -123.09175983785813,
+        49.261637422833914
+      ],
+      [
+        -123.09162161162833,
+        49.26163630018495
+      ]
+    ],
+    "middle_point": [
+      "49.26180401008625",
+      " -123.0916880422977"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/966974c4ee5005b8a1af00279c07ef59c871d062/original/1752781651/9cfc7a060ecab7d19ff059ab58d82e7b_Rendering%20for%202525%20Carolina%20St.png?1752781651",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "2535 Carolina St and 557-569 E 10th Ave (DP-2025-00530) development...",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/2535-carolina-st-and-557-569-e-10th-ave-2",
+    "updated": "July 18, 2025",
+    "description": "Fastmark has applied to the City of Vancouver for permission to develop a 17-storey, mixed-use building consisting on this site, consisting of:\n143 secured market rental, with 20% allocated to below market\nOver two levels of underground vehicle and bicycle parking\nWith a proposed height of 95.45 m (303.5 ft.)\nProposed FSR of 5.8\nUnder the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "July 17 → July 31 2025",
+    "points": [
+      [
+        -123.09137448947737,
+        49.26163429205981
+      ],
+      [
+        -123.09136912792732,
+        49.261968558237115
+      ],
+      [
+        -123.09147802462321,
+        49.261969461542876
+      ],
+      [
+        -123.09148339914863,
+        49.26163517735973
+      ],
+      [
+        -123.09137448947737,
+        49.26163429205981
+      ]
+    ],
+    "middle_point": [
+      "49.261801869059354",
+      " -123.0914262608379"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/966974c4ee5005b8a1af00279c07ef59c871d062/original/1752781651/9cfc7a060ecab7d19ff059ab58d82e7b_Rendering%20for%202525%20Carolina%20St.png?1752781651",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "2535 Carolina St and 557-569 E 10th Ave (DP-2025-00530) development...",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/2535-carolina-st-and-557-569-e-10th-ave-2",
+    "updated": "July 18, 2025",
+    "description": "Fastmark has applied to the City of Vancouver for permission to develop a 17-storey, mixed-use building consisting on this site, consisting of:\n143 secured market rental, with 20% allocated to below market\nOver two levels of underground vehicle and bicycle parking\nWith a proposed height of 95.45 m (303.5 ft.)\nProposed FSR of 5.8\nUnder the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "July 17 → July 31 2025",
+    "points": [
+      [
+        -123.09155250539605,
+        49.261635743290604
+      ],
+      [
+        -123.09154713133735,
+        49.26197002747666
+      ],
+      [
+        -123.09161625179719,
+        49.26197059335821
+      ],
+      [
+        -123.09162161162833,
+        49.26163630018495
+      ],
+      [
+        -123.09155250539605,
+        49.261635743290604
+      ]
+    ],
+    "middle_point": [
+      "49.26180317187093",
+      " -123.09158437509959"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/966974c4ee5005b8a1af00279c07ef59c871d062/original/1752781651/9cfc7a060ecab7d19ff059ab58d82e7b_Rendering%20for%202525%20Carolina%20St.png?1752781651",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "2535 Carolina St and 557-569 E 10th Ave (DP-2025-00530) development...",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/2535-carolina-st-and-557-569-e-10th-ave-2",
+    "updated": "July 18, 2025",
+    "description": "Fastmark has applied to the City of Vancouver for permission to develop a 17-storey, mixed-use building consisting on this site, consisting of:\n143 secured market rental, with 20% allocated to below market\nOver two levels of underground vehicle and bicycle parking\nWith a proposed height of 95.45 m (303.5 ft.)\nProposed FSR of 5.8\nUnder the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "July 17 → July 31 2025",
+    "points": [
+      [
+        -123.09148339914863,
+        49.26163517735973
+      ],
+      [
+        -123.09147802462321,
+        49.261969461542876
+      ],
+      [
+        -123.09154713133735,
+        49.26197002747666
+      ],
+      [
+        -123.09155250539605,
+        49.261635743290604
+      ],
+      [
+        -123.09148339914863,
+        49.26163517735973
+      ]
+    ],
+    "middle_point": [
+      "49.2618026026056",
+      " -123.09151526512328"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/966974c4ee5005b8a1af00279c07ef59c871d062/original/1752781651/9cfc7a060ecab7d19ff059ab58d82e7b_Rendering%20for%202525%20Carolina%20St.png?1752781651",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "785 W 42nd Ave (DP-2025-00449) development application",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/785-w-42-ave",
+    "updated": "July 9, 2025",
+    "description": "Andrew Cheung Architects Inc. has applied to the City of Vancouver for permission to develop two three-storey multiple dwelling \"Townhouse\" containing a total of nine strata dwelling units, consisting of:\nA total height of approx. 37.7 ft. for each building\nA total Floor Space Ratio of 1.2 (approximately 10, 077 sq. ft.)\nOne level of underground parking having vehicular access from the lane\nUnder the site’s existing RM-8A zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "July 08 → July 25 2025",
+    "points": [
+      [
+        -123.12346828720796,
+        49.23294073164504
+      ],
+      [
+        -123.12344226642794,
+        49.23326965294295
+      ],
+      [
+        -123.1237424954652,
+        49.23327937943884
+      ],
+      [
+        -123.12375334991773,
+        49.23295059125963
+      ],
+      [
+        -123.12346828720796,
+        49.23294073164504
+      ]
+    ],
+    "middle_point": [
+      "49.23311150411472",
+      " -123.12360147289604"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/c19f974ba5518d3d62455d03a72520de11a51d7b/original/1752007336/f095b2ea79460c6ba0933abf0234dfcb_view%20from%20willow%20st.PNG?1752007336",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "4975-4997 Joyce St (DP-2025-00390) development application",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/4975-4997-joyce-st-2",
+    "updated": "July 1, 2025",
+    "description": "Sightline Properties Ltd., has applied to the City of Vancouver for permission to develop a 38 storey, mixed-use residential building, consisting of:\n404 secured market rental units with 10% of dwelling unit area for below market rentals\nRetail at grade\nA proposed floor space ratio of 18.9 (261,534 sq.ft.)\nAn approximate height of 229.31 m (752.3 ft.)\nFive levels of underground parking with vehicular access from the lane\nUnder the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "June 30 → July 15 2025",
+    "points": [
+      [
+        -123.03129051601209,
+        49.23958052755209
+      ],
+      [
+        -123.03091740784684,
+        49.23942778086119
+      ],
+      [
+        -123.03084427357301,
+        49.23950415202187
+      ],
+      [
+        -123.03121734088,
+        49.23965690795323
+      ],
+      [
+        -123.03129051601209,
+        49.23958052755209
+      ]
+    ],
+    "middle_point": [
+      "49.23954234481381",
+      " -123.03106739254709"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/17e7374a3b5c63231790827340fd28f639047b85/original/1751319871/38904ebe0dbe278cd8fdcb729ec76f18_Capture.PNG?1751319871",
+    "rezoning": false,
+    "development": true
+  },
+  {
+    "address": "4975-4997 Joyce St (DP-2025-00390) development application",
+    "categories": [],
+    "href": "https://www.shapeyourcity.ca/4975-4997-joyce-st-2",
+    "updated": "July 1, 2025",
+    "description": "Sightline Properties Ltd., has applied to the City of Vancouver for permission to develop a 38 storey, mixed-use residential building, consisting of:\n404 secured market rental units with 10% of dwelling unit area for below market rentals\nRetail at grade\nA proposed floor space ratio of 18.9 (261,534 sq.ft.)\nAn approximate height of 229.31 m (752.3 ft.)\nFive levels of underground parking with vehicular access from the lane\nUnder the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "public_comments_data": "June 30 → July 15 2025",
+    "points": [
+      [
+        -123.03151001238982,
+        49.2393510892293
+      ],
+      [
+        -123.03150987495374,
+        49.23935099931436
+      ],
+      [
+        -123.0311381272886,
+        49.23919729946354
+      ],
+      [
+        -123.03106465046876,
+        49.239274021673594
+      ],
+      [
+        -123.03143697526275,
+        49.23942738877784
+      ],
+      [
+        -123.03151001238982,
+        49.2393510892293
+      ]
+    ],
+    "middle_point": [
+      "49.23931237583587",
+      " -123.03128728073295"
+    ],
+    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/17e7374a3b5c63231790827340fd28f639047b85/original/1751319871/38904ebe0dbe278cd8fdcb729ec76f18_Capture.PNG?1751319871",
+    "rezoning": false,
+    "development": true
+  },
+  {
     "address": "6333-6369 Yukon St rezoning application",
     "categories": [],
     "href": "https://www.shapeyourcity.ca/6333-6369-yukon-st-2",
@@ -78,7 +382,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/1668-w-broadway",
     "updated": "June 27, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 26-storey mixed-use rental building with a two-storey podium, and includes:\n416 units;\nCommercial space on the ground floor;\nA floor space ratio (FSR) of 8.6; and\nA building height of 81.0 m (265 ft.).\nThis application is being considered under the Broadway Plan\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
+    "description": "The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 26-storey mixed-use rental building with a two-storey podium, and includes:\n208 units;\nCommercial space on the ground floor;\nA floor space ratio (FSR) of 8.6; and\nA building height of 81.0 m (265 ft.).\nThis application is being considered under the Broadway Plan\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
     "public_comments_data": "July 16 → July 29 2025",
     "points": [
       [
@@ -180,7 +484,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2008-w-41-ave",
     "updated": "June 24, 2025",
-    "description": "LPI Management Ltd. has applied to the City of Vancouver for permission to develop a one-storey public utility building and a six-storey mixed-use residential building on this site, consisting of:\n118 secured market rental units\nRetail at level 1\nA proposed FSR of 3.7 (9,319 m2 / 100,314 sq.ft.)\nA proposed height of 24 m / 79 ft.\nTwo levels of underground parking with vehicular access off the lane\nUnder the site’s existing C-2 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "LPI Management Ltd. has applied to the City of Vancouver for permission to develop a one-storey public utility building and a six-storey mixed-use residential building on this site, consisting of:\n117 secured market rental units\nRetail at level 1\nA proposed FSR of 3.7 (9,319 m2 / 100,314 sq.ft.)\nA proposed height of 24 m / 79 ft.\nTwo levels of underground parking with vehicular access off the lane\nUnder the site’s existing C-2 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "June 23 → July 07 2025",
     "points": [
       [
@@ -648,7 +952,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/1140-w-54-ave-and-1140-w-55-ave",
     "updated": "June 19, 2025",
-    "description": "EWAN Design + Construct Inc. has applied to the City of Vancouver to reclassify Lot 1 and Lot 2 at 1140 West 54th Avenue, and Lot 3 and Lot 4 at 1140 West 55th Avenue from R1-1 subdivision category E\n(External link)\nto subdivision category C\n(External link)\n.\nThe minimum standards for category C and E are:\nCategory C: minimum width 50 ft., minimum area 5,000 sq. ft.\nCategory E: minimum width 75 ft., minimum area 6,750 sq. ft.\nFollowing receipt of comments on this reclassification application, this application will be reported to City Council with a recommendation from staff.\nAt the time of Council’s deliberation, property owners who have been notified will be given the opportunity to address Council on this subject. All owners to whom this notification has been sent will be notified of the time and place of the Council meeting.",
+    "description": "Please Note: The comment form is now closed. After this project is referred to a standing committee meeting, you can make comments directly to Council using the standing committee correspondence form.\nEWAN Design + Construct Inc. has applied to the City of Vancouver to reclassify Lot 1 and Lot 2 at 1140 West 54th Avenue, and Lot 3 and Lot 4 at 1140 West 55th Avenue from R1-1 subdivision category E\n(External link)\nto subdivision category C\n(External link)\n.\nThe minimum standards for category C and E are:\nCategory C: minimum width 50 ft., minimum area 5,000 sq. ft.\nCategory E: minimum width 75 ft., minimum area 6,750 sq. ft.\nFollowing receipt of comments on this reclassification application, this application will be reported to City Council with a recommendation from staff.\nAt the time of Council’s deliberation, property owners who have been notified will be given the opportunity to address Council on this subject. All owners to whom this notification has been sent will be notified of the time and place of the Council meeting.",
     "public_comments_data": "June 18 → July 04 2025",
     "points": [
       [
@@ -685,7 +989,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/1140-w-54-ave-and-1140-w-55-ave",
     "updated": "June 19, 2025",
-    "description": "EWAN Design + Construct Inc. has applied to the City of Vancouver to reclassify Lot 1 and Lot 2 at 1140 West 54th Avenue, and Lot 3 and Lot 4 at 1140 West 55th Avenue from R1-1 subdivision category E\n(External link)\nto subdivision category C\n(External link)\n.\nThe minimum standards for category C and E are:\nCategory C: minimum width 50 ft., minimum area 5,000 sq. ft.\nCategory E: minimum width 75 ft., minimum area 6,750 sq. ft.\nFollowing receipt of comments on this reclassification application, this application will be reported to City Council with a recommendation from staff.\nAt the time of Council’s deliberation, property owners who have been notified will be given the opportunity to address Council on this subject. All owners to whom this notification has been sent will be notified of the time and place of the Council meeting.",
+    "description": "Please Note: The comment form is now closed. After this project is referred to a standing committee meeting, you can make comments directly to Council using the standing committee correspondence form.\nEWAN Design + Construct Inc. has applied to the City of Vancouver to reclassify Lot 1 and Lot 2 at 1140 West 54th Avenue, and Lot 3 and Lot 4 at 1140 West 55th Avenue from R1-1 subdivision category E\n(External link)\nto subdivision category C\n(External link)\n.\nThe minimum standards for category C and E are:\nCategory C: minimum width 50 ft., minimum area 5,000 sq. ft.\nCategory E: minimum width 75 ft., minimum area 6,750 sq. ft.\nFollowing receipt of comments on this reclassification application, this application will be reported to City Council with a recommendation from staff.\nAt the time of Council’s deliberation, property owners who have been notified will be given the opportunity to address Council on this subject. All owners to whom this notification has been sent will be notified of the time and place of the Council meeting.",
     "public_comments_data": "June 18 → July 04 2025",
     "points": [
       [
@@ -1358,7 +1662,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/3792-w-4-ave",
     "updated": "May 29, 2025",
-    "description": "Highbury Project Limited Partnership has applied to the City of Vancouver for permission to develop a new six-storey, mixed-use Residential building consisting of the following on this site:\n63 Secured Market Rental units\nA proposed Floor Space Ratio of 3.47 for the site (approximately 45,234 sq. ft.)\nA proposed height of approximately 73.24 ft. (22.32 m)\nOne level of underground parking providing a total of 21 spaces having access from Highbury Street\nUnder the site’s existing C-2 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "The Director of Planning approved the application on July 4, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents”.\nHighbury Project Limited Partnership has applied to the City of Vancouver for permission to develop a new six-storey, mixed-use Residential building consisting of the following on this site:\n63 Secured Market Rental units\nA proposed Floor Space Ratio of 3.47 for the site (approximately 45,234 sq. ft.)\nA proposed height of approximately 73.24 ft. (22.32 m)\nOne level of underground parking providing a total of 21 spaces having access from Highbury Street\nUnder the site’s existing C-2 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "May 28 → June 11 2025",
     "points": [
       [
@@ -1645,7 +1949,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/282-w-49th-ave-2",
     "updated": "May 23, 2025",
-    "description": "Musqueam Capital Corporation, the economic development arm of the xʷməθkʷəy̓əm (Musqueam Indian Band), in partnership with YMCA BC and Townline, has applied to the City of Vancouver for permission to develop this site with a three building mixed-use complex of 8, 32, and 37-storey heights. This proposal includes:\nA community centre and daycare replacing the existing YMCA\n306 secured market rental dwelling units\n291 strata dwelling units\n88 social housing dwelling units\nRetail at grade\nA floor space ratio of 6.78\nAn approximate maximum height of 196.7 m (645.4 ft.)\nThree levels of underground parking, accessed from Alberta Street\nThe development application follows the rezoning application approved in principle by City Council at a Public Hearing\n(External link)\non February 25, 2025, and is subject to Council enactment of the CD-1 By-law\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "The Director of Planning approved the application on July 4, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nMusqueam Capital Corporation, the economic development arm of the xʷməθkʷəy̓əm (Musqueam Indian Band), in partnership with YMCA BC and Townline, has applied to the City of Vancouver for permission to develop this site with a three building mixed-use complex of 8, 32, and 37-storey heights. This proposal includes:\nA community centre and daycare replacing the existing YMCA\n306 secured market rental dwelling units\n291 strata dwelling units\n88 social housing dwelling units\nRetail at grade\nA floor space ratio of 6.78\nAn approximate maximum height of 196.7 m (645.4 ft.)\nThree levels of underground parking, accessed from Alberta Street\nThe development application follows the rezoning application approved in principle by City Council at a Public Hearing\n(External link)\non February 25, 2025, and is subject to Council enactment of the CD-1 By-law\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "May 22 → June 06 2025",
     "points": [
       [
@@ -1690,7 +1994,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2590-point-grey-rd",
     "updated": "May 21, 2025",
-    "description": "Intarsia Design Ltd., has applied to the City of Vancouver for permission to develop a single detached house with a partial third storey with a detached accessory building at the rear, providing two parking spaces, having vehicular access from the lane, consisting of:\nA proposed height of flat roof of approximately 33.5 ft.\nA proposed Floor Space Ratio of approximately 2,969 sq. ft.\nUnder the site’s existing RT-8 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "The Director of Planning approved the application on July 3, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nIntarsia Design Ltd., has applied to the City of Vancouver for permission to develop a single detached house with a partial third storey with a detached accessory building at the rear, providing two parking spaces, having vehicular access from the lane, consisting of:\nA proposed height of flat roof of approximately 33.5 ft.\nA proposed Floor Space Ratio of approximately 2,969 sq. ft.\nUnder the site’s existing RT-8 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "May 20 → June 04 2025",
     "points": [
       [
@@ -1731,7 +2035,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2576-point-grey-rd",
     "updated": "May 21, 2025",
-    "description": "Shato Holdings Ltd., has applied to the City of Vancouver for permission to develop a single detached house, two-storey with basement with a detached accessory building and open parking space at the rear, providing two parking spaces having vehicular access from the lane, consisting of:\nA proposed height of roof peak at approximately 73.19 ft.\nA proposed Floor Space Ratio of approximately 2,915 sq. ft.\nUnder the site’s existing RT-8 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "The Director of Planning approved the application on July 3, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nShato Holdings Ltd., has applied to the City of Vancouver for permission to develop a single detached house, two-storey with basement with a detached accessory building and open parking space at the rear, providing two parking spaces having vehicular access from the lane, consisting of:\nA proposed height of roof peak at approximately 73.19 ft.\nA proposed Floor Space Ratio of approximately 2,915 sq. ft.\nUnder the site’s existing RT-8 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "May 20 → June 04 2025",
     "points": [
       [
@@ -1768,7 +2072,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/5889-5925-dunbar-st-2",
     "updated": "May 21, 2025",
-    "description": "Steve Peng Architect has applied to the City of Vancouver for permission to develop a multiple dwelling having five-storey at Dunbar Street, consisting of:\nA total of 66 Secured Market Rental units\nA proposed FSR of 2.20 (45,083 sq.ft.)\nA proposed height of 19.8 m (64.96 ft)\nOne level of underground parking, providing 38 parking spaces having vehicular access from lane\nThis rezoning application was approved by City Council, following Public Hearing\n(External link)\nof January 21, 2025. Among the conditions of Council’s approval, the applicant must obtain approval of a development permit.",
+    "description": "The Director of Planning approved the application on June 27, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nSteve Peng Architect has applied to the City of Vancouver for permission to develop a multiple dwelling having five-storey at Dunbar Street, consisting of:\nA total of 66 Secured Market Rental units\nA proposed FSR of 2.20 (45,083 sq.ft.)\nA proposed height of 19.8 m (64.96 ft)\nOne level of underground parking, providing 38 parking spaces having vehicular access from lane\nThis rezoning application was approved by City Council, following Public Hearing\n(External link)\nof January 21, 2025. Among the conditions of Council’s approval, the applicant must obtain approval of a development permit.",
     "public_comments_data": "May 20 → June 04 2025",
     "points": [
       [
@@ -1809,7 +2113,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/5889-5925-dunbar-st-2",
     "updated": "May 21, 2025",
-    "description": "Steve Peng Architect has applied to the City of Vancouver for permission to develop a multiple dwelling having five-storey at Dunbar Street, consisting of:\nA total of 66 Secured Market Rental units\nA proposed FSR of 2.20 (45,083 sq.ft.)\nA proposed height of 19.8 m (64.96 ft)\nOne level of underground parking, providing 38 parking spaces having vehicular access from lane\nThis rezoning application was approved by City Council, following Public Hearing\n(External link)\nof January 21, 2025. Among the conditions of Council’s approval, the applicant must obtain approval of a development permit.",
+    "description": "The Director of Planning approved the application on June 27, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nSteve Peng Architect has applied to the City of Vancouver for permission to develop a multiple dwelling having five-storey at Dunbar Street, consisting of:\nA total of 66 Secured Market Rental units\nA proposed FSR of 2.20 (45,083 sq.ft.)\nA proposed height of 19.8 m (64.96 ft)\nOne level of underground parking, providing 38 parking spaces having vehicular access from lane\nThis rezoning application was approved by City Council, following Public Hearing\n(External link)\nof January 21, 2025. Among the conditions of Council’s approval, the applicant must obtain approval of a development permit.",
     "public_comments_data": "May 20 → June 04 2025",
     "points": [
       [
@@ -1924,7 +2228,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/6486-chester-st",
     "updated": "May 16, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey mixed-use building and includes:\n116 rental units;\nA telecommunications facility on the northeast corner of the site;\nAn overall floor space ratio (FSR) of 2.89; and\nA building height of 22.1 m (73 ft.).\n(External link)\nThis application is being considered under the Secured Rental Policy.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
+    "description": "The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey mixed-use building and includes:\n116 rental units;\nA telecommunications facility on the northeast corner of the site;\nAn overall floor space ratio (FSR) of 2.89; and\nA building height of 22.1 m (73 ft.).\n(External link)\nThis application is being considered under the Secured Rental Policy.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nAnnouncements\nOn July 7, 2025, the applicant provided an addendum to their April 15, 2025 submission. The addendum proposes one additional below-grade level for the telecommunications building.",
     "public_comments_data": "June 11 → June 24 2025",
     "points": [
       [
@@ -2939,7 +3243,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2202-2212-w-10-ave",
     "updated": "April 24, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from C-7 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey mixed-use rental building with a 4-storey podium and includes:\n221 units with 20% of the floor area for below-market units;\nTelecommunications use on the ground floor;\nA floor space ratio (FSR) of 6.65; and\nA building height of 77.6 m (255 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPlease note, a development permit for the new, smaller telecommunications facility has been submitted and is currently under staff review. The proposed telecommunications use is permitted under the existing zoning. If you have questions related to the development permit (DP-2025-00227), please contact Bryce Casidy, Project Facilitator - bryce.casidy@vancouver.ca\n(External link)\n– 604-871-6707.",
+    "description": "The City of Vancouver has received an application to rezone the subject site from C-7 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey mixed-use rental building with a 4-storey podium and includes:\n221 units with 20% of the floor area for below-market units;\nTelecommunications use on the ground floor;\nA floor space ratio (FSR) of 6.65; and\nA building height of 77.6 m (255 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPlease note, a development permit for the new, smaller telecommunications facility has been submitted and is currently under staff review. The proposed telecommunications use is permitted under the existing zoning. If you have questions related to the development permit (DP-2025-00227), please contact Bryce Casidy, Project Facilitator - bryce.casidy@vancouver.ca\n(External link)\n– 604-871-6707.\nFly Through Video (Uploaded July 14th, 2025)",
     "public_comments_data": "July 09 → July 22 2025",
     "points": [
       [
@@ -3235,7 +3539,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/5274-chambers-st",
     "updated": "April 15, 2025",
-    "description": "The City of Vancouver has received an application for permission to develop a Triplex building containing a total of three dwelling units, consisting of:\nA proposed Floor Space Ratio of 0.90 (approximately 3,076 sq. ft.)\nA proposed height of approximately 35.70 ft.\nThree vehicle surface parking spaces, having vehicular access from the lane\nUnder the site’s existing RM-7 zoning, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "The Director of Planning approved the application on July 11, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents”.\nThe City of Vancouver has received an application for permission to develop a Triplex building containing a total of three dwelling units, consisting of:\n\nA proposed Floor Space Ratio of 0.90 (approximately 3,076 sq. ft.)\nA proposed height of approximately 35.70 ft.\nThree vehicle surface parking spaces, having vehicular access from the lane\nUnder the site’s existing RM-7 zoning, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "April 14 → May 02 2025",
     "points": [
       [
@@ -5495,7 +5799,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2412-galt-st",
     "updated": "February 20, 2025",
-    "description": "The Director of Planning approved the application on March 20 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents”.\nRichtown Construction Ltd. has applied to the City of Vancouver for permission to develop a front duplex (Building 1) and a rear single detached house (Building 2), consisting of:\nA proposed height of approximately\n32 ft. for Building 1\n23 ft. for Building 2\nA total Floor Space Ratio of 0.7 for the site (approximately 2,821 sq.ft.)\nUnder the site’s existing RM-9A zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
+    "description": "The Director of Planning approved this application, and a Development Permit was issued on June 25, 2025.\nRichtown Construction Ltd. has applied to the City of Vancouver for permission to develop a front duplex (Building 1) and a rear single detached house (Building 2), consisting of:\nA proposed height of approximately\n32 ft. for Building 1\n23 ft. for Building 2\nA total Floor Space Ratio of 0.7 for the site (approximately 2,821 sq.ft.)\nUnder the site’s existing RM-9A zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
     "public_comments_data": "February 19 → March 07 2025",
     "points": [
       [
@@ -6369,7 +6673,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2079-2085-w-5th-ave",
     "updated": "January 30, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy.\nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPublic Hearing: Tuesday, July 8, 2025 at 6 pm\nThese Public Hearings are to be convened by electronic means, with in-person attendance also available.\nView the Public Hearing Agenda\n(External link)\nWatch the meeting\n(External link)\nFollow the meeting on X\n(External link)\nSend your comments online\n(External link)\nor via mail to:\nCity of Vancouver, City Clerk’s Office\n453 West 12th Avenue, Third Floor\nVancouver, BC, V5Y 1V4\nOr request to speak on the day of the Public Hearing. Registration starts approximately 11 days before the meeting.\nYour comments and name will be published in the meeting record.",
+    "description": "This application was approved by Council at Public Hearing on July 8, 2025\n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy. \nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
     "public_comments_data": "February 18 → March 03 2025",
     "points": [
       [
@@ -6410,7 +6714,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2079-2085-w-5th-ave",
     "updated": "January 30, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy.\nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPublic Hearing: Tuesday, July 8, 2025 at 6 pm\nThese Public Hearings are to be convened by electronic means, with in-person attendance also available.\nView the Public Hearing Agenda\n(External link)\nWatch the meeting\n(External link)\nFollow the meeting on X\n(External link)\nSend your comments online\n(External link)\nor via mail to:\nCity of Vancouver, City Clerk’s Office\n453 West 12th Avenue, Third Floor\nVancouver, BC, V5Y 1V4\nOr request to speak on the day of the Public Hearing. Registration starts approximately 11 days before the meeting.\nYour comments and name will be published in the meeting record.",
+    "description": "This application was approved by Council at Public Hearing on July 8, 2025\n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy. \nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
     "public_comments_data": "February 18 → March 03 2025",
     "points": [
       [
@@ -6447,7 +6751,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2079-2085-w-5th-ave",
     "updated": "January 30, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy.\nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPublic Hearing: Tuesday, July 8, 2025 at 6 pm\nThese Public Hearings are to be convened by electronic means, with in-person attendance also available.\nView the Public Hearing Agenda\n(External link)\nWatch the meeting\n(External link)\nFollow the meeting on X\n(External link)\nSend your comments online\n(External link)\nor via mail to:\nCity of Vancouver, City Clerk’s Office\n453 West 12th Avenue, Third Floor\nVancouver, BC, V5Y 1V4\nOr request to speak on the day of the Public Hearing. Registration starts approximately 11 days before the meeting.\nYour comments and name will be published in the meeting record.",
+    "description": "This application was approved by Council at Public Hearing on July 8, 2025\n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy. \nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
     "public_comments_data": "February 18 → March 03 2025",
     "points": [
       [
@@ -6484,7 +6788,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2079-2085-w-5th-ave",
     "updated": "January 30, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy.\nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPublic Hearing: Tuesday, July 8, 2025 at 6 pm\nThese Public Hearings are to be convened by electronic means, with in-person attendance also available.\nView the Public Hearing Agenda\n(External link)\nWatch the meeting\n(External link)\nFollow the meeting on X\n(External link)\nSend your comments online\n(External link)\nor via mail to:\nCity of Vancouver, City Clerk’s Office\n453 West 12th Avenue, Third Floor\nVancouver, BC, V5Y 1V4\nOr request to speak on the day of the Public Hearing. Registration starts approximately 11 days before the meeting.\nYour comments and name will be published in the meeting record.",
+    "description": "This application was approved by Council at Public Hearing on July 8, 2025\n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy. \nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
     "public_comments_data": "February 18 → March 03 2025",
     "points": [
       [
@@ -6521,7 +6825,7 @@
     "categories": [],
     "href": "https://www.shapeyourcity.ca/2079-2085-w-5th-ave",
     "updated": "January 30, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy.\nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\nPublic Hearing: Tuesday, July 8, 2025 at 6 pm\nThese Public Hearings are to be convened by electronic means, with in-person attendance also available.\nView the Public Hearing Agenda\n(External link)\nWatch the meeting\n(External link)\nFollow the meeting on X\n(External link)\nSend your comments online\n(External link)\nor via mail to:\nCity of Vancouver, City Clerk’s Office\n453 West 12th Avenue, Third Floor\nVancouver, BC, V5Y 1V4\nOr request to speak on the day of the Public Hearing. Registration starts approximately 11 days before the meeting.\nYour comments and name will be published in the meeting record.",
+    "description": "This application was approved by Council at Public Hearing on July 8, 2025\n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:\n200 social housing units;\nCommercial space on the ground floor and one level of office space;\nA floor space ratio (FSR) of 10.0; and\nA building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Broadway Plan\n(External link)\n, and requests consideration of density in excess of the existing policy. \nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
     "public_comments_data": "February 18 → March 03 2025",
     "points": [
       [
@@ -7186,431 +7490,5 @@
     "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1721846491/52ef246a5d9a3c84d35d62ee94cc7096_Render.jpg?1721846491",
     "rezoning": true,
     "development": false
-  },
-  {
-    "address": "1638 E Broadway (DP-2024-01015) development application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/1638-e-broadway",
-    "updated": "January 18, 2025",
-    "description": "The Director of Planning approved this application, and a Development Permit was issued on April 9, 2025.\n1452290 BC Ltd. has applied to the City of Vancouver for permission to perform interior alterations and to change the use from Health Care Office to Health Care Office and Small-scale Pharmacy in this existing commercial building, consisting of:\nA total floor area of approximately 2,013.0 sq. ft., with the Small-scale Pharmacy use approximately 416.0 sq. ft.\nSmall-scale Pharmacy hours of operation:\nMonday - Friday: 6 am to 4 pm\nWeekends and Holidays: 6 am to 12 pm\nUnder the site’s existing C-3A zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
-    "public_comments_data": "January 17 → January 31 2025",
-    "points": [
-      [
-        -123.0707809376397,
-        49.26185734206214
-      ],
-      [
-        -123.07077454346977,
-        49.262191517926325
-      ],
-      [
-        -123.07098345811315,
-        49.26219318880715
-      ],
-      [
-        -123.07098985087256,
-        49.26185901293215
-      ],
-      [
-        -123.0707809376397,
-        49.26185734206214
-      ]
-    ],
-    "middle_point": [
-      "49.26202526561995",
-      " -123.07088219752015"
-    ],
-    "img": "",
-    "rezoning": false,
-    "development": true
-  },
-  {
-    "address": "1638 E Broadway (DP-2024-01015) development application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/1638-e-broadway",
-    "updated": "January 18, 2025",
-    "description": "The Director of Planning approved this application, and a Development Permit was issued on April 9, 2025.\n1452290 BC Ltd. has applied to the City of Vancouver for permission to perform interior alterations and to change the use from Health Care Office to Health Care Office and Small-scale Pharmacy in this existing commercial building, consisting of:\nA total floor area of approximately 2,013.0 sq. ft., with the Small-scale Pharmacy use approximately 416.0 sq. ft.\nSmall-scale Pharmacy hours of operation:\nMonday - Friday: 6 am to 4 pm\nWeekends and Holidays: 6 am to 12 pm\nUnder the site’s existing C-3A zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
-    "public_comments_data": "January 17 → January 31 2025",
-    "points": [
-      [
-        -123.07057133721442,
-        49.26185567123414
-      ],
-      [
-        -123.07056494162939,
-        49.26218984708745
-      ],
-      [
-        -123.07077454346977,
-        49.262191517926325
-      ],
-      [
-        -123.0707809376397,
-        49.26185734206214
-      ],
-      [
-        -123.07057133721442,
-        49.26185567123414
-      ]
-    ],
-    "middle_point": [
-      "49.262023594765516",
-      " -123.07067293998469"
-    ],
-    "img": "",
-    "rezoning": false,
-    "development": true
-  },
-  {
-    "address": "4615 Arbutus St rezoning application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/4615-arbutus-st",
-    "updated": "January 16, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from CD-1 (26) (Comprehensive Development) District to RR-3B\n(External link)\n(Residential Rental) District. The proposal includes:\nA 6-storey mixed-use rental building;\nAt least 20% of the floor area secured for below-market rental units;\nCommercial space at the ground floor;\nA floor space ratio (FSR) up to 3.50.\nThe application is being considered under the Secured Rental Policy\n(External link)\n(Section 2.4 Rezonings in Low-Density Transition Areas).\nIf approved, this site's zoning will change to RR-3B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.\nThe specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.\nRezoning Policy Background\nOn December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:\nIncrease housing choice for renter households\nStreamline processes and clarifying policy requirements\nDiversify rental housing options\nRespond to the City’s Climate Emergency\nHelp enhance local shopping areas\nImproving livability of rental housing\nLearn more about:\nSecured Rental Policy\n(External link)\nPublic feedback during the development of SRP\n(External link)\nHow SRP helps deliver key objectives of the Housing Vancouver Strategy\n(External link)\nSites eligible for rezoning in low-density transition areas (map included)\n(External link)",
-    "public_comments_data": "February 12 → February 25 2025",
-    "points": [
-      [
-        -123.15415395327955,
-        49.24480030800758
-      ],
-      [
-        -123.15356850134097,
-        49.24479075218281
-      ],
-      [
-        -123.15356822655407,
-        49.24479075254807
-      ],
-      [
-        -123.15355389214477,
-        49.24517487724155
-      ],
-      [
-        -123.1541322758008,
-        49.245379630222565
-      ],
-      [
-        -123.15415395327955,
-        49.24480030800758
-      ]
-    ],
-    "middle_point": [
-      "49.245040006010846",
-      " -123.15387174176873"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/a475382804b23ebd3e5b646841c3213ca1a58183/original/1736550753/dad6d698b190640290c57d8cab4643be_SRP_Building_Example_RR-3B_-_Label.png?1736550753",
-    "rezoning": true,
-    "development": false
-  },
-  {
-    "address": "441 E Pender St rezoning application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/441-e-pender-st",
-    "updated": "January 15, 2025",
-    "description": "Update: March 26, 2025: Revised postcards with the correct Q&A date (March 26, 2025 to April 8, 2025) are in the process of being delivered.\n\nThe City of Vancouver has received an application to rezone the subject site from RT-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey rental building and includes:\n65 micro-dwelling, social housing units;\nA floor space ratio (FSR) of 3.04; and\nA building height of 22.5 m (73 ft.)\n(External link)\nThis application is being considered under the Downtown Eastside Plan\n(External link)\n.\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.\n\nRevised Submission (March 2024)\nRevised submission in response to clarification of programming from the future building operator.\nChanges include removal of the medical room formerly proposed on the ground level, and clarification in the rezoning booklet (see rezoning rationale statement) that the proposal is for independent living, operated by the non-profit social housing provider, Community Builders.",
-    "public_comments_data": "March 26 → April 08 2025",
-    "points": [
-      [
-        -123.09454892335725,
-        49.280383065243285
-      ],
-      [
-        -123.09423489235871,
-        49.280377223038755
-      ],
-      [
-        -123.0942205562585,
-        49.28071152256634
-      ],
-      [
-        -123.09453469937297,
-        49.28071736471823
-      ],
-      [
-        -123.09454892335725,
-        49.280383065243285
-      ]
-    ],
-    "middle_point": [
-      "49.28054730382468",
-      " -123.09438476724515"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1734981370/a745abe61ecb093174f49430867c83c0_rendering.jpg?1734981370",
-    "rezoning": true,
-    "development": false
-  },
-  {
-    "address": "1401-1455 E 49th Ave rezoning application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/1401-1455-e-49th-ave",
-    "updated": "January 13, 2025",
-    "description": "Building Example\nThe City of Vancouver has received an application to rezone the subject site from R1-1\n(External link)\n(Residential Inclusive) District and C-1\n(External link)\n(Commercial) District to RR-3B\n(External link)\n(Residential Rental) District. The proposal includes:\nA six-storey mixed-use rental building;\nAt least 20% of the floor area secured for below-market rental units;\nCommercial space at the ground floor; and\nA floor space ratio (FSR) up to 3.50.\nThe application is being considered under the Secured Rental Policy\n(External link)\nIf approved, this site's zoning will change to RR-3B. Any development on the site would have to conform to these zoning regulations and design guidelines. The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.\nThis approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.\nBackground: Southern Portion of Sir Sanford Fleming Elementary School\nAs part of the seismic mitigation program, the Ministry of Education and Child Care identified and funded the construction of a new Sir Sanford Fleming Elementary School. This process included a reconfiguration of the school site, which presented an opportunity to repurpose the southern portion of the property for rental housing. With Ministry approval, the Vancouver School Board finalized a 99-year lease with Vittori Developments Ltd. for the southern portion of our school site as per Board Policy 20 - Disposal of land or improvements. [media.vsb.bc.ca]\n(External link)\nLearn more about the public engagement and disposition process of the Fleming school site at https://www.vsb.bc.ca/page/4916/south-portion-of-fleming-site\n(External link)\nQuestions relating to the disposition process, including policies and procedures of VSB, can be directed to planning@vsb.bc.ca or 604-713-5000.\nIt is important to note that the VSB and the City are separate entities with distinct responsibilities and governance structures, operating independently of one another. As the land use regulator, the City is responsible for reviewing the rezoning application.\nRezoning Policy Background\nOn December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:\nIncrease housing choice for renter households\nStreamline processes and clarifying policy requirements\nDiversify rental housing options\nRespond to the City’s Climate Emergency\nHelp enhance local shopping areas\nImproving livability of rental housing\nLearn more about:\nSecured Rental Policy\n(External link)\nPublic feedback during the development of SRP\n(External link)\nHow SRP helps deliver key objectives of the Housing Vancouver Strategy\n(External link)\nSites eligible for rezoning in low-density transition areas (map included)\n(External link)",
-    "public_comments_data": "January 29 → February 11 2025",
-    "points": [
-      [
-        -123.07707913371243,
-        49.225428785379236
-      ],
-      [
-        -123.07703887778456,
-        49.22540132270422
-      ],
-      [
-        -123.07604624688581,
-        49.22538937806265
-      ],
-      [
-        -123.07603635857879,
-        49.22567591972582
-      ],
-      [
-        -123.07707030762353,
-        49.22568801679898
-      ],
-      [
-        -123.07707913371243,
-        49.225428785379236
-      ]
-    ],
-    "middle_point": [
-      "49.225539025748354",
-      " -123.07655718331551"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/6197a5b6d7b44a320f21e55e71870b1f372a5b12/original/1733936142/dfb53e945cf3aa58d9b8d67f4fd05c43_RR-3B_Example.png?1733936142",
-    "rezoning": true,
-    "development": false
-  },
-  {
-    "address": "4339-4387 Cambie St and 506 W 27th Ave rezoning application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/4339-4387-cambie-st-and-506-w-27-ave-2",
-    "updated": "January 10, 2025",
-    "description": "The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a seven-storey mixed-use building and includes:\n130 strata residential units;\nCommercial space on the ground floor;\nA floor space ratio (FSR) of 2.96; and\nA building height of 27.0 m (89 ft.) with additional height for rooftop amenity space.\n(External link)\nThis application is being considered under the Cambie Corridor Plan.\n(External link)\nThe City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: vancouver.ca/protecting-tenants.\n(External link)\n(External link)\n(External link)\n(External link)\n(External link)\nApplication drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.",
-    "public_comments_data": "January 29 → February 11 2025",
-    "points": [
-      [
-        -123.1165426706711,
-        49.24676948665569
-      ],
-      [
-        -123.11591488139807,
-        49.246758901185174
-      ],
-      [
-        -123.11591474399894,
-        49.24675890132302
-      ],
-      [
-        -123.11590707012537,
-        49.24694375205747
-      ],
-      [
-        -123.11653499916132,
-        49.24695434642495
-      ],
-      [
-        -123.1165426706711,
-        49.24676948665569
-      ]
-    ],
-    "middle_point": [
-      "49.24685662110055",
-      " -123.1162248728624"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1736266821/7e4d4369c52069ee5d4be9c6b231376b_rendering.PNG?1736266821",
-    "rezoning": true,
-    "development": false
-  },
-  {
-    "address": "2315 W 4th Ave (DP-2024-01039) development application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/2315-w-4-ave",
-    "updated": "January 10, 2025",
-    "description": "The Development Permit Board approved the application on April 7, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nPCI Developments has applied to the City of Vancouver for permission to develop the following on this site:\nA mixed-use building, with a ground floor grocery store and retail space\n385 residential market rental units above\nProposed density of 352,099 sq.ft. (32,711 m)\nA Floor Space Ratio (FSR) of 3.70\nAbove two levels of underground vehicle and bicycle parking\nUnder the site’s existing C2-B zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Development Permit Board\n(External link)\n.",
-    "public_comments_data": "January 09 → January 24 2025",
-    "points": [
-      [
-        -123.15805794806546,
-        49.268324296904815
-      ],
-      [
-        -123.15763936319762,
-        49.26831767258959
-      ],
-      [
-        -123.15762784029505,
-        49.26862714121844
-      ],
-      [
-        -123.1580465666472,
-        49.268634206147276
-      ],
-      [
-        -123.15805794806546,
-        49.268324296904815
-      ]
-    ],
-    "middle_point": [
-      "49.268475839741924",
-      " -123.15784297853874"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b368cb9f7606aba6fbf8701e305f512e06de2bd5/original/1735862564/3d718cb935122b503308e68b53d26232_Rendering_view_from_W_4th_and_Vine_St.JPG?1735862564",
-    "rezoning": false,
-    "development": true
-  },
-  {
-    "address": "2315 W 4th Ave (DP-2024-01039) development application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/2315-w-4-ave",
-    "updated": "January 10, 2025",
-    "description": "The Development Permit Board approved the application on April 7, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nPCI Developments has applied to the City of Vancouver for permission to develop the following on this site:\nA mixed-use building, with a ground floor grocery store and retail space\n385 residential market rental units above\nProposed density of 352,099 sq.ft. (32,711 m)\nA Floor Space Ratio (FSR) of 3.70\nAbove two levels of underground vehicle and bicycle parking\nUnder the site’s existing C2-B zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Development Permit Board\n(External link)\n.",
-    "public_comments_data": "January 09 → January 24 2025",
-    "points": [
-      [
-        -123.15805794806546,
-        49.268324296904815
-      ],
-      [
-        -123.1580465666472,
-        49.268634206147276
-      ],
-      [
-        -123.15762784029505,
-        49.26862714121844
-      ],
-      [
-        -123.15761406153393,
-        49.26900091059863
-      ],
-      [
-        -123.15928908579288,
-        49.26902777598711
-      ],
-      [
-        -123.15930108567524,
-        49.26869887691908
-      ],
-      [
-        -123.15915468289037,
-        49.26869656001685
-      ],
-      [
-        -123.15915658561686,
-        49.268647074795844
-      ],
-      [
-        -123.15916797516095,
-        49.26834185193102
-      ],
-      [
-        -123.15805794806546,
-        49.268324296904815
-      ]
-    ],
-    "middle_point": [
-      "49.26870733417866",
-      " -123.1585063466608"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b368cb9f7606aba6fbf8701e305f512e06de2bd5/original/1735862564/3d718cb935122b503308e68b53d26232_Rendering_view_from_W_4th_and_Vine_St.JPG?1735862564",
-    "rezoning": false,
-    "development": true
-  },
-  {
-    "address": "2215 Nanaimo St (DP-2024-00871) development application",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/2215-nanaimo-st",
-    "updated": "January 10, 2025",
-    "description": "The Director of Planning approved the application on February 26, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nSimplex + G Architects has applied to the City of Vancouver for permission to develop the following on this site:\nA four-storey, mixed-use residential building consisting of 24 secured market rental dwelling units, restaurant use and parking at grade and having vehicular access from the lane\nA proposed height of approximately 13.8 m (45.28 ft.)\nA proposed overall Floor Space Ratio of 2.49 (1,997.2 m² / 21,498.0 sq. ft.)\nA total of five parking spaces at the rear having vehicular access from the lane\nUnder the site’s existing C-2 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
-    "public_comments_data": "January 09 → January 24 2025",
-    "points": [
-      [
-        -123.05735155612784,
-        49.26471365093075
-      ],
-      [
-        -123.05680380271741,
-        49.264709873680594
-      ],
-      [
-        -123.05680366526823,
-        49.26470987374817
-      ],
-      [
-        -123.0568034941411,
-        49.264800275618036
-      ],
-      [
-        -123.05680390648939,
-        49.26480027541531
-      ],
-      [
-        -123.05735001150722,
-        49.26480405348325
-      ],
-      [
-        -123.05735155612784,
-        49.26471365093075
-      ]
-    ],
-    "middle_point": [
-      "49.264756943562986",
-      " -123.05707718809765"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/17e7374a3b5c63231790827340fd28f639047b85/original/1736456317/5b24181d8ed88fa14043df8c9c1b0f7d_Capture.PNG?1736456317",
-    "rezoning": false,
-    "development": true
-  },
-  {
-    "address": "702 E 15th Ave - formerly 701 Kingsway (DP-2024-01104) development ...",
-    "categories": [],
-    "href": "https://www.shapeyourcity.ca/701-kingsway-2",
-    "updated": "January 8, 2025",
-    "description": "The Director of Planning approved the application on April 23, 2025, subject to conditions. A Development Permit may be issued once all conditions have been satisfied. For more information, please see the Prior-to letter under \"Application documents\"\nQualex-Landmark Fraser Living Inc. has applied to the City of Vancouver for permission to develop the following on this site:\nA mixed-use building containing retail uses on the ground and lower levels, residential uses on the upper floors, 200 market rental units including 37 below market\nA height of 78.86 m (258 ft.)\nA floor space ratio of 8.5 (14,195 m² /152,794 sq. ft.)\nParking, loading and bike storage accessed from the lane\nThe rezoning application was approved by City Council, following Public Hearing\n(External link)\n, on November 15, 2024. Among the conditions of Council’s approval, the applicant must obtain approval of a development permit. Under the site’s proposed CD-1 zoning\n(External link)\n, the application is “conditional” so it may be permitted. However, it requires the decision of the Director of Planning.",
-    "public_comments_data": "January 07 → January 24 2025",
-    "points": [
-      [
-        -123.08958787071928,
-        49.25676011526044
-      ],
-      [
-        -123.08903631763687,
-        49.25650644475455
-      ],
-      [
-        -123.08895524743758,
-        49.25650515791914
-      ],
-      [
-        -123.0889504108865,
-        49.25676565410908
-      ],
-      [
-        -123.08910515175597,
-        49.25677208338928
-      ],
-      [
-        -123.0890999787879,
-        49.257051397823986
-      ],
-      [
-        -123.08934243322915,
-        49.25706120427727
-      ],
-      [
-        -123.08953512963821,
-        49.25684561069593
-      ],
-      [
-        -123.08958787071928,
-        49.25676011526044
-      ]
-    ],
-    "middle_point": [
-      "49.25678973536467",
-      " -123.08923693801576"
-    ],
-    "img": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/4eec20e33972be9b69feba2f80daec7af0f31060/original/1736275723/24c95520fd1a85a4e174460ff6df8518_View_looking_northeast.JPG?1736275723",
-    "rezoning": false,
-    "development": true
   }
 ]
